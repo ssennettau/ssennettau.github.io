@@ -1,10 +1,12 @@
 ---
 layout: post
 title:  "Virtual Rotary Club Changeovers"
+author: "Stephen Sennett"
+excerpt: "Our traditional Changeovers, like many things in the world of COVID-19’s Global Pandemic, aren’t an option. But where some clubs are opting to cancel or postpone their Changeovers, many are asking another question: “How might we do our Changeover online?”"
 date:   2020-04-26 00:00:00 +1100
 categories: rotary
 ---
-*This was originally posted to Medium as [Virtual Rotary Club Changovers](https://medium.com/@ssennett.au/virtual-changeovers-c0103ebe23f5)*
+> *This was originally posted to Medium as [Virtual Rotary Club Changovers](https://medium.com/@ssennett.au/virtual-changeovers-c0103ebe23f5)*
 
 ![Image](/assets/2020-04-26-virtual-rotary-club-changeovers/1.png)
 
