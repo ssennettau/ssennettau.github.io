@@ -1,5 +1,9 @@
+# Standard Jekyll Ignores
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# Ignore Local Drafts
+/_drafts/_local/*
