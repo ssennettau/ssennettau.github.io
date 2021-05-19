@@ -1,3 +1,4 @@
 ---
 layout: debug
+sitemap: false
 ---
