@@ -12,9 +12,9 @@ Fires kill people. The Emergency Services stop fires from killing people. Simple
 
 Indirect impacts often kill substantially more people than the main event. While everyone is dealing with the primary event, an unseen toll can be exacted on those nowhere near the lights and sirens.
 
-# Previous Events #
+## Previous Events ##
 
-![Image](/assets/2020-11-18-indirect-impacts-of-emergencies/1.png)
+![Graph comparison of Black Summer 2020 and Black Saturday 2009 deaths by cause, both showing a majority of indirect fatalities](/assets/2020-11-18-indirect-impacts-of-emergencies/1.png)
 
 In 2009, Black Saturday resulted in 173 fatalities from the fires. But the heatwave surrounding it killed up to 374 additional Victorians. For reference, Black Saturday itself had most of the state at 40°C+ (Hopetoun hit 48.8°C), humidity as low as 2%, and wind over 100kph.
 
@@ -22,7 +22,7 @@ Last summer across Australia (2019/20), air pollution was an ongoing killer. Wit
 
 Why the difference? Along with the relative sizes of the disaster, we have gotten **substantially** better at ensuring the primacy of life during fires in the intervening decade.
 
-# Inequal Impacts #
+## Inequal Impacts ##
 
 ![Image](/assets/2020-11-18-indirect-impacts-of-emergencies/2.jpg)
 
@@ -34,7 +34,7 @@ Consider a heatwave, like the ones described around Black Saturday: For many of 
 
 The result? For one, a few bad nights sleep, and needing to stay inside. For the other, a constant fight for survival, and potentially life-threatening health impacts.
 
-# Pandemic Pressure #
+## Pandemic Pressure ##
 
 ![Image](/assets/2020-11-18-indirect-impacts-of-emergencies/3.png)
 
@@ -44,7 +44,7 @@ Beyond that, many people have become more reluctant to seek medical care for exi
 
 Many institutions have already begun to make estimates with figures of millions of lives, and trillions of dollars in impacts worldwide. Even so, it will take years to truly quantify the final tolls taken on humanity.
 
-# Future Journeys #
+## Future Journeys ##
 
 ![Image](/assets/2020-11-18-indirect-impacts-of-emergencies/4.jpg)
 

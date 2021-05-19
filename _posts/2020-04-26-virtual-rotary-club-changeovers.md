@@ -16,7 +16,7 @@ Our traditional Changeovers, like many things in the world of COVID-19’s Globa
 
 Whilst we might feel this a challenge beyond what we can execute, we see just how much has adapted recently. My fellow Australians would remember the recent highly successful re-imagining of ANZAC Day; an entire set of cultural ceremonies build around physical proximity. And unlike ANZAC Day, we already have lots of experience in the world of virtual events.
 
-# What’s important in a Rotary Club Changeover? #
+## What’s important in a Rotary Club Changeover? ##
 ![Image](/assets/2020-04-26-virtual-rotary-club-changeovers/2.png)
 
 The “Rotary Chicken” dinner aside, why is it that Changeovers are important to us? This answer will vary from Club to Club. It’s important to think about what is important to us. We can design Changeover events that reflect what we value most and remembering why they are so important.
@@ -29,7 +29,7 @@ The “Rotary Chicken” dinner aside, why is it that Changeovers are important 
 
 **Fellowship and Banter** can be more difficult over Zoom, but is even more critical than ever. Let’s remember why we love doing what we do, joined with our fellow Rotarians not just as partners in service, but as dearest friends.
 
-# How should we structure our Agenda? #
+## How should we structure our Agenda? ##
 ![Image](/assets/2020-04-26-virtual-rotary-club-changeovers/3.png)
 
 Fortunate news here: It doesn’t necessarily have to change! If your club has a Changeover program that they are particularly attached to, see what you might do to convert it to working online.
@@ -38,7 +38,7 @@ If in doubt, think about the discussions above around what is vital for your clu
 
 Unlike most things that we do, Changeovers are absent presence in our Constitutions, Bylaws, or formal practices. Instead, let us make it something to reflect what our Club wants and needs it to be
 
-# How do we practically run the event? #
+## How do we practically run the event? ##
 ![Image](/assets/2020-04-26-virtual-rotary-club-changeovers/4.jpg)
 
 Most active Rotarians will now have experience using videoconferencing for their club meetings
@@ -54,17 +54,17 @@ Zoom and other videoconferencing platforms have a lot of useful features for an 
 
 Don’t worry, your MC doesn’t have to be an expert on Zoom. You might find it useful having an Assistant MC to manage the technology. Meanwhile, the MC oversees the event itself. You could also consider technically experienced friends of the club, including family members, or Rotaractors to act as Assistant MC.
 
-# How might we run our particular rituals? #
+## How might we run our particular rituals? ##
 ![Image](/assets/2020-04-26-virtual-rotary-club-changeovers/5.png)
 
-## Award Ceremony ##
+### Award Ceremony ###
 Honouring our fellow Rotarians is just as important this year, as any other. And the process can be very much the same, with the Club President announcing the recipients of the awards.
 
 Not all awards are a surprise. Your Paul Harris Society members likely know they’re due to receive the upgrade for their PHF. Mail them early, and have members show off their new award as they’re announced.
 
 Surprise awards are still similar; just mail the award on the day of the Changeover. They’ll find out before it arrives, and receive it soon after
 
-## Investitures ##
+### Investitures ###
 Due to the limitations of the physical universe, your Club’s Presidential Collar (or other regalia, like a gavel) can only be in one place at any given time. How might we handle this difficult challenge?
 
 How should you do this? Consider the significance of the physical transfer, and how it works with your club, given your own culture and traditions. Is it a symbol of the end of a year, or the start of a new year? Does the special significance attach to the Collar, or the President? Does the Collar hold any special significance for your club at all?
@@ -73,19 +73,19 @@ You might consider whether to physically hand over the collar between Presidents
 
 Badges for Officers are much simpler and can be mailed ahead of time, similarly to awards. As the incoming President calls their names, they can display the badge of their position to the audience.
 
-## National Anthem ##
+### National Anthem ###
 Ever heard two people trying to talk at once on a video call? Multiply that by several dozen, and you have an attempt to sing the National Anthem together at your changeover. Even with disciplined timing, the nature of the technology is that it just doesn’t work.
 
 Another option might be for a recording of the National Anthem to be played, and having your members sing-along on mute. Or if that might feel a little silly, even having everyone listen silently on mute is an option.
 
-## Other Things ##
+### Other Things ###
 Your club may have other ceremonies, rituals, or habits that you like to undertake at a Changeover event. So, how might you handle it?
 
 **Experiment. Practice.**
 
 Get your Changeover Committee together, and try things on a smaller scale in a meeting. There is no substitute for experimentation, and practice will reveal what can work. Other rituals may need to be adapted, modified, or in some case, sidelined for the year.
 
-# What if we have a large number of attendees? #
+## What if we have a large number of attendees? ##
 ![Image](/assets/2020-04-26-virtual-rotary-club-changeovers/6.png)
 
 Anyone who has been in a large Zoom call knows that it’s hard to spot who is talking, or where a particular person is, even if they’re the only ones unmuted.
@@ -95,7 +95,7 @@ Another option is to use the [Spotlight Video](https://support.zoom.us/hc/en-us/
 Even larger events with hundreds of participants or complex practices may find that they require additional tools to broadcast their Changeover effectively. In this, the advice is simple and no different to any major event: Start planning now.
 
 
-# Could we put it on hold until after the pandemic? #
+## Could we put it on hold until after the pandemic? ##
 ![Image](/assets/2020-04-26-virtual-rotary-club-changeovers/7.png)
 
 Of course. Your Club’s Changeover belongs to your Club, and the event is run for the benefit of the Rotarians of your Club.

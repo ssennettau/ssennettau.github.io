@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+last_modified_at: 2020-11-18 00:00:00 +1100
 ---
 
 This is the personal blog of Stephen Sennett, a professional working in the field of technology, living in Australia. It may includes technical posts, thoughts, or analyses primarily in the areas of Computing, Emergency Management, Humanitarian Issues, or Rotary.
