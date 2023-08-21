@@ -1,0 +1,51 @@
+<!-- To add more icons, duplicate a section and find yout icon here -> https://fontawesome.com/v6.0/icons -->
+
+<div class="social-links">
+    {% if site.linkedin %}
+        <a class="link" title="LinkedIn ({{ site.linkedin }})" data-title="LinkedIn ({{ site.linkedin }})" href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank"  rel="noopener">
+            <i class="fa-brands fa-linkedin"></i>
+        </a>
+    {% endif %}
+    
+    {% if site.facebook %}
+        <a class="link" data-title="facebook.com/{{ site.facebook }}" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">
+            <i class="fa-brands fa-facebook"></i>
+        </a>
+    {% endif %}
+
+    {% if site.polywork %}
+        <a class="link" title="Polywork (@{{ site.polywork }})" data-title="Polywork (@{{ site.polywork }})" href="https://polywork.com/{{ site.polywork }}" target="_blank" rel="noopener">
+            <i class="fa-regular fa-id-badge"></i>
+        </a>
+    {% endif %}
+
+    {% if site.twitter %}
+        <a class="link" title="Twitter (@{{ site.twitter }})" data-title="Twitter (@{{ site.twitter }})" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">
+            <i class="fa-brands fa-twitter"></i>
+        </a>
+    {% endif %}
+
+    {% if site.instagram %}
+        <a class="link" data-title="instagram.com/{{ site.instagram }}" href="https://instagram.com/{{ site.instagram }}" target="_blank"  rel="noopener">
+            <i class="fa-brands fa-instagram"></i>
+        </a>
+    {% endif %}
+
+    {% if site.github %}
+        <a class="link" title="GitHub (@{{ site.github }})" data-title="GitHub (@{{ site.github }})" href="https://github.com/{{ site.github }}" target="_blank"  rel="noopener">
+            <i class="fa-brands fa-github"></i>
+        </a>
+    {% endif %}
+
+    {% if site.buymeacoffee %}
+        <a class="link" title="Buy Me a Coffee" data-title="Buy Me a Coffee" href="https://www.buymeacoffee.com/{{ site.buymeacoffee }}" target="_blank" rel="noopener">
+            <i class="fa-solid fa-mug-hot"></i>
+        </a>
+    {% endif %}
+
+    {% if site.email %}
+        <a class="link" title="Email - {{ site.email }}" data-title="Email - {{ site.email }}" href="mailto:{{ site.email }}"  rel="noopener">
+            <i class="fa-regular fa-envelope"></i>
+        </a>
+    {% endif %}
+</div>
